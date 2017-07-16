@@ -1,5 +1,5 @@
 # BankSecuritySystem-
-A security system built using python, openCV and Microsoft cognitive API.
+A security system built using python 2.7 , openCV 2.4 and Microsoft cognitive API.
 
 Liberaries used:
 Basic python liberaries,
