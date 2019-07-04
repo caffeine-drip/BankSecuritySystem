@@ -31,7 +31,7 @@ text2 = ['No object Detected']
 headers = {
     # Request headers
     'Content-Type': 'multipart/form-data',
-    'Prediction-key': '5efccca2a1bb44f599428c8ab4b2c01f',
+    'Prediction-key': 'xxxxxxxxxxxxxxxxxxxxxxx',
 }
 params = urllib.urlencode({
     # Request parameters
